@@ -1,0 +1,216 @@
+@font-face {
+    font-family: "poppins" ;
+    src: url(font/poppins.ttf);
+} 
+
+
+
+header{
+    background-color: #0475ba;
+    display: flex;
+    margin: -8px;
+    height: 72px;
+    
+}
+
+h1{
+    color: white;
+    font-family: poppins;
+    margin:10px ;
+}
+h1#paranom{
+    color: black;
+}
+
+
+ul#nav{
+    display:  flex;
+    font-family: poppins;
+    margin-top: -1px;
+}
+
+ul#presentation{
+
+    font-family: poppins;
+    
+}
+
+li.btn{
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    list-style: none;
+    font-family: poppins;
+
+}
+
+li.btn:hover{
+    color: #0475ba;
+    background-color: white;
+    transition: 400ms;
+}
+
+
+li.btnn{
+    
+    font-family: poppins;
+    color: white;
+    
+}
+
+h3{
+    color: #0475ba;
+}
+
+h3#devweb{
+    color: #0475ba ;
+    font-family: poppins;
+}
+
+img.noemie{
+    border-radius: 100px;
+    height: 150px; width: 150px;
+    
+    
+}
+
+div#prem{
+    display: flex;
+    padding: 40px;
+    justify-content: space-around;
+    align-items: center;
+
+    
+    
+}
+
+div#deuz{
+    background-color: #0475ba;
+    margin: -8px;
+    padding: 40px;
+    text-align: left;
+
+}
+
+div#troi{
+    font-family: poppins;
+}
+
+h2#present{
+    font-family: poppins;
+    color: white;
+    padding: 20px;
+}
+
+a{
+    text-decoration:none ;
+
+}
+
+h2#expro{
+    font-family: poppins;
+    padding: 40px;
+    color:#0475ba ;
+
+}
+
+p.gra{
+    
+    font-weight: bold;
+    display: block
+}
+
+p.pagra{
+    
+    font-size: 20px;
+
+}
+
+div.datepro{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+font-size: 20px;
+margin: 20px;
+}
+
+p.dategra{
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px;
+    
+}   
+
+div#katre{
+    background-color: #0475ba;
+    margin:-8px ;
+    font-family: poppins;
+}
+
+h2#form{
+    color: white;
+    padding: 40px;
+}
+
+div.forma{
+    font-family: poppins;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+    padding: 40px;
+    font-size: 3vh;
+}
+
+div.passion{
+    font-family: poppins;
+    display: flex;
+    flex-direction: row;
+    
+    
+    
+}
+
+h2#passion{
+    color: #0475ba;
+    font-family: poppins;
+    padding: 40px;
+    
+}
+
+p.passio{
+    font-size: 20px;
+    padding: 40px;
+
+}
+
+footer{
+    display: flex;
+    font-family: poppins;
+    background-color: #0475ba;
+    margin: -8px;
+    font-size: 18px;
+    padding: 40px;
+    flex-direction: column;
+
+}
+
+a.footer{
+    color: white;
+    padding: 20px;
+}
+
+div#gere{
+    
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+    
+
+
+
+
+
+
