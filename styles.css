@@ -10,21 +10,17 @@ header{
     padding: 1vh;
     margin: -8px;
     font-size: 1vh;
-    
-    
 }
 
 h1{
     color: white;
     font-family: poppins;
     margin:10px ;
-    
 }
 h1#paranom{
     color: black;
     font-size: 20px;
 }
-
 
 ul#nav{
     display:  flex;
@@ -33,9 +29,7 @@ ul#nav{
 }
 
 ul#presentation{
-
-    font-family: poppins;
-    
+    font-family: poppins;   
 }
 
 li.btn{
@@ -45,7 +39,6 @@ li.btn{
     list-style: none;
     font-family: poppins;
     margin-top: 5vh;
-
 }
 
 li.btn:hover{
@@ -56,10 +49,8 @@ li.btn:hover{
 
 
 li.btnn{
-    
     font-family: poppins;
     color: white;
-    
 }
 
 h3{
@@ -75,19 +66,14 @@ h3#devweb{
 
 img.noemie{
     border-radius: 100px;
-    height: 80px; width: 80px;
-    
-    
+    height: 80px; width: 80px;  
 }
 
 div#prem{
     display: flex;
     padding: 40px;
     justify-content: space-around;
-    align-items: center;
-
-    
-    
+    align-items: center;    
 }
 
 div#deuz{
@@ -95,7 +81,6 @@ div#deuz{
     margin: -8px;
     padding: 40px;
     text-align: left;
-
 }
 
 div#troi{
@@ -110,26 +95,21 @@ h2#present{
 
 a{
     text-decoration:none ;
-
 }
 
 h2#expro{
     font-family: poppins;
     padding: 40px;
     color:#0475ba ;
-
 }
 
-p.gra{
-    
+p.gra{   
     font-weight: bold;
     display: block
 }
 
 p.pagra{
-    
     font-size: 20px;
-
 }
 
 div.datepro{
@@ -143,8 +123,7 @@ margin: 20px;
 p.dategra{
     font-weight: bold;
     font-size: 20px;
-    padding: 5px;
-    
+    padding: 5px;  
 }   
 
 div#katre{
@@ -171,10 +150,7 @@ div.forma{
 div.passion{
     font-family: poppins;
     display: flex;
-    flex-direction: row;
-    
-    
-    
+    flex-direction: row;   
 }
 
 h2#passion{
@@ -187,7 +163,6 @@ h2#passion{
 p.passio{
     font-size: 20px;
     padding: 40px;
-
 }
 
 footer{
@@ -198,21 +173,16 @@ footer{
     font-size: 18px;
     padding: 40px;
     flex-direction: column;
-
 }
 
 a.footer{
     color: white;
     padding: 20px;
-    
 }
 
 div#gere{
-    
     display: flex;
     flex-direction: column;
-    
-    
 }
     _______________________________________________________________
 
@@ -231,8 +201,7 @@ html{
             flex-direction: row;
             font-size: 2vh;
             justify-content: space-between;
-            padding: 10px;
-            
+            padding: 10px;   
         }
         
         h1#paranom{
@@ -245,12 +214,9 @@ html{
         }
         ul#nav{
             display:  flex;
-            font-family: poppins;
-            
-           
+            font-family: poppins; 
         }      
         ul#presentation{
-        
             font-family: poppins;        
         }
         
@@ -270,32 +236,24 @@ html{
         }
           
         li.btnn{
-            
             font-family: poppins;
             color: white;
-            
-            
         }
         
         h3{
             color: #0475ba;
-            
         }
         
         h3#devweb{
             color: #0475ba ;
             font-family: poppins;
             font-size: 20px;
-            
         }
         
         img.noemie{
             border-radius: 100px;
             height: 150px; width: 150px;
             box-shadow: 3px 4px black;
-            
-            
-            
         }
         
         div#prem{
@@ -330,7 +288,6 @@ html{
             font-family: poppins;
             padding: 40px;
             color:#0475ba ;
-        
         }        
         p.gra{
             
@@ -338,10 +295,8 @@ html{
             display: block
         }
         
-        p.pagra{
-            
+        p.pagra{   
             font-size: 20px;
-        
         }
         
         div.datepro{
@@ -393,7 +348,6 @@ html{
         p.passio{
             font-size: 20px;
             padding: 40px;
-        
         }
         
         footer{
