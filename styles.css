@@ -213,7 +213,7 @@ div#gere{
     
     
 }
-    
+    _______________________________________________________________
 
 html{
     margin: 0; /* Think MOBILE FIRST */
@@ -291,6 +291,7 @@ html{
         img.noemie{
             border-radius: 100px;
             height: 150px; width: 150px;
+            box-shadow: 3px 3px;
             
             
         }
